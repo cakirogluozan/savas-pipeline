@@ -1,0 +1,39 @@
+/data1/savas/dataset/kitti_object/training/image_2/000000.png 712,143,810,307,0
+/data1/savas/dataset/kitti_object/training/image_2/000001.png 599,156,629,189,4 387,181,423,203,1 676,163,688,193,5    
+/data1/savas/dataset/kitti_object/training/image_2/000002.png  657,190,700,223,1
+/data1/savas/dataset/kitti_object/training/image_2/000003.png 614,181,727,284,1  
+/data1/savas/dataset/kitti_object/training/image_2/000004.png 280,185,344,215,1 365,184,406,205,1     
+/data1/savas/dataset/kitti_object/training/image_2/000005.png 330,178,360,238,0    
+/data1/savas/dataset/kitti_object/training/image_2/000006.png 548,171,572,194,1 505,168,575,209,1 49,185,227,246,1 328,170,397,204,1  
+/data1/savas/dataset/kitti_object/training/image_2/000007.png 564,174,616,224,1 481,180,512,202,1 542,175,565,193,1 330,176,355,213,5  
+/data1/savas/dataset/kitti_object/training/image_2/000008.png 0,192,402,374,1 334,178,624,372,1 937,197,1241,374,1 597,176,720,261,1 741,168,792,208,1 884,178,956,240,1    
+/data1/savas/dataset/kitti_object/training/image_2/000009.png 601,177,659,229,1 600,177,624,193,1 574,178,598,194,1  
+/data1/savas/dataset/kitti_object/training/image_2/000010.png 1013,182,1241,374,1 354,185,549,294,1 859,159,879,221,0 819,178,926,251,1 800,178,878,230,1 558,179,635,230,1 598,178,652,218,1 784,178,839,220,1 663,175,707,204,1    
+/data1/savas/dataset/kitti_object/training/image_2/000011.png 883,144,937,259,0 873,152,933,256,0 444,171,504,225,1 649,168,664,206,0 0,217,85,374,1 240,190,268,261,0   
+/data1/savas/dataset/kitti_object/training/image_2/000012.png 662,185,690,205,1 448,177,481,206,3   
+/data1/savas/dataset/kitti_object/training/image_2/000013.png 455,183,533,241,1 
+/data1/savas/dataset/kitti_object/training/image_2/000014.png 626,176,654,194,1  
+/data1/savas/dataset/kitti_object/training/image_2/000015.png 0,194,414,373,1 1021,133,1101,316,0 672,171,690,224,0 692,169,712,224,0 537,168,560,224,0     
+/data1/savas/dataset/kitti_object/training/image_2/000016.png 661,174,694,197,1 125,91,474,253,4 684,172,733,205,1 0,193,386,374,1 494,181,527,205,1 587,158,648,188,2                
+/data1/savas/dataset/kitti_object/training/image_2/000017.png 728,173,791,200,1 
+/data1/savas/dataset/kitti_object/training/image_2/000018.png 523,194,550,219,1 572,185,606,219,3 387,166,473,213,2                 
+/data1/savas/dataset/kitti_object/training/image_2/000019.png 0,0,424,374,4 742,184,944,321,1 639,169,683,212,3 551,184,575,204,1  
+/data1/savas/dataset/kitti_object/training/image_2/000020.png 685,181,804,258,1
+/data1/savas/dataset/kitti_object/training/image_2/000021.png 1056,190,1241,374,5 359,179,516,270,1 444,163,559,247,1 870,115,1101,213,3 724,171,790,215,1 534,166,596,216,1 709,162,765,205,1 562,166,605,206,1  
+/data1/savas/dataset/kitti_object/training/image_2/000022.png 128,199,218,237,1 60,198,159,238,1 
+/data1/savas/dataset/kitti_object/training/image_2/000023.png 599,156,629,189,4 372,182,412,205,1 677,164,690,195,5   
+/data1/savas/dataset/kitti_object/training/image_2/000024.png 517,162,564,196,1 443,168,480,195,1 427,165,455,185,1    
+/data1/savas/dataset/kitti_object/training/image_2/000025.png 896,218,1241,374,1 351,183,537,308,1 562,173,618,217,1 724,178,805,249,1 650,175,659,205,5 720,187,779,236,1   
+/data1/savas/dataset/kitti_object/training/image_2/000026.png 633,155,704,211,4 555,174,576,191,1
+/data1/savas/dataset/kitti_object/training/image_2/000027.png 16,117,314,314,3 590,181,607,194,1 
+/data1/savas/dataset/kitti_object/training/image_2/000028.png 147,156,205,309,0
+/data1/savas/dataset/kitti_object/training/image_2/000029.png  652,174,690,204,1  
+/data1/savas/dataset/kitti_object/training/image_2/000030.png 559,178,588,204,1 
+/data1/savas/dataset/kitti_object/training/image_2/000031.png 334,180,490,297,1 785,179,1028,340,1 711,179,848,277,1 445,131,539,228,4 660,178,713,222,1 620,171,649,200,3   
+/data1/savas/dataset/kitti_object/training/image_2/000032.png 178,189,435,344,1 776,182,1014,335,1 340,150,489,274,3 711,180,863,273,1 709,176,777,234,1 119,141,368,230,3 725,164,806,219,1 611,163,643,197,3 780,147,917,199,3 494,173,531,199,1  
+/data1/savas/dataset/kitti_object/training/image_2/000033.png 582,175,601,189,1 0,189,234,322,1 
+/data1/savas/dataset/kitti_object/training/image_2/000034.png 46,196,328,286,1 466,184,522,207,1    
+/data1/savas/dataset/kitti_object/training/image_2/000035.png 587,173,614,200,1 425,176,529,259,1 234,185,320,231,1 665,160,717,217,5 423,173,433,224,0      
+/data1/savas/dataset/kitti_object/training/image_2/000036.png 553,178,693,311,1 341,194,390,218,1 286,196,337,220,1 412,190,455,212,1 960,183,1104,229,1 1154,178,1241,222,1 1123,213,1241,374,1  
+/data1/savas/dataset/kitti_object/training/image_2/000037.png 555,173,628,240,1 27,0,512,375,4 473,183,535,226,1
+/data1/savas/dataset/kitti_object/training/image_2/000038.png 592,176,637,219,1 895,158,1241,374,1 817,176,1038,302,1 749,177,940,262,1 489,180,521,201,1 302,188,409,250,1 682,173,796,220,1 659,174,745,209,1 640,167,707,198,3 434,175,472,199,1 456,177,487,197,1 412,177,437,195,1
